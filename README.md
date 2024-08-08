@@ -9,3 +9,5 @@
 #2 - [Week1_2](https://github.com/2203A51739/DAA/blob/main/week1_2.py)
 
 #3 - [Week1_3](https://github.com/2203A51739/DAA/blob/main/week1_3.py)
+# Week 2 Assognment:
+#3 - [Week2_3](https://github.com/2203A51739/DAA/blob/main/week2_3.py)
