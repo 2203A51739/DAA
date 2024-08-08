@@ -1,2 +1,2 @@
 # DAA
-# Bubble, Selection and Insertion sort - Sorting.ipynb
+# Bubble, Selection and Insertion sort - [Sorting.ipynb](https://github.com/2203A51739/DAA/blob/main/Sorting.ipynb)
